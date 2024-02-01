@@ -1,0 +1,16 @@
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\bin\Debug\net8.0-windows\WinFormsApp1 - CPE262 Calculator Project.exe
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\bin\Debug\net8.0-windows\WinFormsApp1 - CPE262 Calculator Project.deps.json
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\bin\Debug\net8.0-windows\WinFormsApp1 - CPE262 Calculator Project.runtimeconfig.json
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\bin\Debug\net8.0-windows\WinFormsApp1 - CPE262 Calculator Project.dll
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\bin\Debug\net8.0-windows\WinFormsApp1 - CPE262 Calculator Project.pdb
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\obj\Debug\net8.0-windows\WinFormsApp1 - CPE262 Calculator Project.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\obj\Debug\net8.0-windows\WinFormsApp1 - CPE262 Calculator Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\obj\Debug\net8.0-windows\WinFormsApp1 - CPE262 Calculator Project.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\obj\Debug\net8.0-windows\WinFormsApp1 - CPE262 Calculator Project.AssemblyInfo.cs
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\obj\Debug\net8.0-windows\WinFormsApp1 - CPE262 Calculator Project.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\obj\Debug\net8.0-windows\WinFormsApp1 - CPE262 Calculator Project.dll
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\obj\Debug\net8.0-windows\refint\WinFormsApp1 - CPE262 Calculator Project.dll
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\obj\Debug\net8.0-windows\WinFormsApp1 - CPE262 Calculator Project.pdb
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\obj\Debug\net8.0-windows\WinFormsApp1 - CPE262 Calculator Project.genruntimeconfig.cache
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\obj\Debug\net8.0-windows\ref\WinFormsApp1 - CPE262 Calculator Project.dll
+D:\Visual Studio\Projects\WinFormsApp1 - CPE262 Calculator Project\WinFormsApp1 - CPE262 Calculator Project\obj\Debug\net8.0-windows\WinFormsApp1___CPE262_Calculator_Project.calculator.resources
